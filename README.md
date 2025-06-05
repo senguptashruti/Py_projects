@@ -3,7 +3,7 @@
 ## Project Details
 This project investigates the relationship between perceived attractiveness and wages using a publicly available “beauty” dataset. The analysis is implemented in Python, with a Jupyter Notebook (“Biz_eco_ass.ipynb”) that demonstrates data preparation, descriptive statistics, regression modeling (with and without gender interactions), and hypothesis testing. The primary objective is to determine whether individuals rated above or below average in attractiveness earn different wages, while controlling for gender, education, and experience.
 ## Files
-- **data/beauty.xlsx**  
+- **['data/beauty.xlsx'](https://github.com/senguptashruti/Py_projects/blob/main/beauty.xlsx)**  
   Raw dataset (Excel format) containing variables:  
   - `wage` (numeric)  
   - `female` (binary indicator for gender)  
@@ -13,7 +13,7 @@ This project investigates the relationship between perceived attractiveness and 
   - `exper` (years of work experience)  
   - `expersq` (experience squared)
 
-- **notebooks/Biz_eco_ass.ipynb**  
+- **['notebooks/Biz_eco_ass.ipynb'](https://github.com/senguptashruti/Py_projects/blob/main/Biz_eco_ass.ipynb)**  
   Jupyter Notebook with the full analysis workflow. Steps include:  
   1. Loading and cleaning the dataset  
   2. Computing descriptive statistics  
